@@ -1,8 +1,8 @@
-### olá meu nome é Ruan👋 <br><br>
-📒 EDUCAÇÃO <br>
+### olá meu nome é Ruan👋 <br>
+📒 <i>EDUCAÇÃO</i> {<br>
 📌 Aluno da Faculdade Senac <br>
 📌 Cursando Análise e Desenvolvimento de Sistemas ( 3º Semestre )
-
+}
 
 
 
