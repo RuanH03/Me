@@ -1,6 +1,6 @@
 ### olá meu nome é Ruan👋 <br>
-• Faculdade Senac  
-• Análise e Desenvolvimento de Sistemas (Cursando 3º Semestre)
+📌 Aluno da Faculdade Senac
+📌 Cursando Análise e Desenvolvimento de Sistemas ( 3º Semestre )
 
 <!--
 **RuanHenrique2003/RuanHenrique2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
