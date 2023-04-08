@@ -20,7 +20,7 @@
   
 ##
 
-<!-- ![Snake gif](https://github.com/RuanHenrique2003/RuanHenrique2003/blob/output/github-contribution-grid-snake.svg) -->
+![Snake gif](https://github.com/RuanHenrique2003/RuanHenrique2003/blob/output/github-contribution-grid-snake.svg)
 
 
 
